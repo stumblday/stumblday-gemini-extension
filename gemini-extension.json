@@ -1,0 +1,12 @@
+{
+  "name": "stumblday",
+  "version": "2.0.0",
+  "description": "Hand-checked things to do in New York City, Los Angeles and Chicago: weekend and day picks, event search, event details and followable calendars (read-only, no sign-in).",
+  "mcpServers": {
+    "stumblday": {
+      "httpUrl": "https://stumblday.com/mcp",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
